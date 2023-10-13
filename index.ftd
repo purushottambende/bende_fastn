@@ -41,7 +41,7 @@ border-radius.px: 10
 ;;-----------------------------------------------------------------------------------------------------------------
 ;;----------------------------Change all the urls with your actuall url's------------------------------------------
 
--- profile.wrapper: Victor Crest
+-- profile.wrapper: Purushottam Bende
 avatar: $assets.files.images.image-victor.jpg
 city: Nagpur
 github-url: https://www.github.com/purushottambende
@@ -106,7 +106,7 @@ border-radius.px: 10
 ;;-----------------------------------------------------------------------------------------------------------------
 ;;----------------------------Change all the urls with your actuall url's------------------------------------------
 
--- profile.wrapper: Victor Crest
+-- profile.wrapper:  Purushottam Bende
 avatar: $assets.files.images.image-victor.jpg
 city: Nagpur
 github-url: https://www.github.com/purushottambende
