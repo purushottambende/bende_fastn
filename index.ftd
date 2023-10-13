@@ -43,10 +43,10 @@ border-radius.px: 10
 
 -- profile.wrapper: Victor Crest
 avatar: $assets.files.images.image-victor.jpg
-city: London
-github-url: https://www.github.com/
-linkedin-url: https://www.linkedin.com/
-instagram-url: https://www.instagram.com/
+city: Nagpur
+github-url: https://www.github.com/purushottambende
+linkedin-url: https://www.linkedin.com/PurushottamBende
+instagram-url: https://www.instagram.com/purushottam.bende
 twitter-url: https://twitter.com/
 
 -- end: ftd.container
@@ -108,10 +108,10 @@ border-radius.px: 10
 
 -- profile.wrapper: Victor Crest
 avatar: $assets.files.images.image-victor.jpg
-city: London
-github-url: https://www.github.com/
-linkedin-url: https://www.linkedin.com/
-instagram-url: https://www.instagram.com/
+city: Nagpur
+github-url: https://www.github.com/purushottambende
+linkedin-url: https://www.linkedin.com/purushottambende
+instagram-url: https://www.instagram.com/purushottam.bende
 twitter-url: https://twitter.com/
 
 -- end: ftd.container
